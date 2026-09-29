@@ -1,6 +1,6 @@
 # UTS Advanced Software Engineering - Spring Boot Application
 
-## 👤 Identitas Mahasiswa
+## 👤 Profil
 * **Nama** : Keino Aflah Zahiry
 * **Mata Kuliah** : Advanced Software Engineering
 * **Proyek** : `UTS_AdvSWE_KeinoAflah`
