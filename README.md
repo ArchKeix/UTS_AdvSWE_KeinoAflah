@@ -44,6 +44,18 @@ Aplikasi ini dibangun berbasis **Web REST API** menggunakan Spring Boot dengan f
 
 ---
 
+## Visual WEB
+1. **Tampilan Page Input Hitung John Travolta dan Akar Kuadrat**  
+<img width="1020" height="782" alt="image" src="https://github.com/user-attachments/assets/78a53f62-872d-49fa-8bb0-e3f60b9f432d" />
+
+2. **Tampilan Page Hasil Hitung John Travolta**
+<img width="919" height="400" alt="image" src="https://github.com/user-attachments/assets/ae093d24-8135-4671-94a1-a157d21cec59" />
+
+3. **Tampilan Page Hasil Hitung Akar Kuadrat**
+<img width="929" height="374" alt="image" src="https://github.com/user-attachments/assets/1ec68579-25b5-42a4-bd95-e537935468dc" />
+
+---
+
 ## 🛠️ Cara Menjalankan Aplikasi
 
 ### Option 1: Via Apache NetBeans
